@@ -10,3 +10,5 @@ Tecnologias ultilizadas abordados:
 O projeto é composto por 4 páginas: login, signup, feed e comentários.
 
 deploy do projeto: https://labeddit-frontend-nw8f.vercel.app/login
+
+link do projeto backend: https://github.com/LucasBonfanti/Labeddit_Backend
